@@ -1,5 +1,5 @@
 
-Página de apresentação de planos de hospedagem fictícia, criada com HTML, CSS e JavaScript puro.
+Página de apresentação de planos de hospedagem fictícia, criada com HTML, CSS e JavaScript puro. <br>
 O projeto foi desenvolvido para treinar a criação de layouts responsivos, cards de planos e interações de botão com hover.
 
 ---
@@ -8,9 +8,9 @@ O projeto foi desenvolvido para treinar a criação de layouts responsivos, card
 
 ## 🚀 Tecnologias utilizadas
 
-HTML5 → Estrutura semântica
-CSS3 → Estilização, responsividade e efeitos visuais
-JavaScript → Interações simples na interface
+HTML5 → Estrutura semântica <br>
+CSS3 → Estilização, responsividade e efeitos visuais <br>
+JavaScript → Interações simples na interface <br>
 
 <br>
 <br>
@@ -28,10 +28,10 @@ JavaScript → Interações simples na interface
 
 ## 🎯 Objetivo do Projeto
 
-Praticar HTML semântico
-Trabalhar com CSS moderno (flexbox e organização visual)
-Melhorar a construção de interfaces responsivas
-Aplicar conceitos básicos de UX/UI
+Praticar HTML semântico <br>
+Trabalhar com CSS moderno (flexbox e organização visual) <br>
+Melhorar a construção de interfaces responsivas <br>
+Aplicar conceitos básicos de UX/UI <br>
 
 <br>
 <br>
@@ -56,27 +56,27 @@ Basta clicar ou colar no navegador.
 
 ## ⚠️ Observações
 
-Projeto desenvolvido para fins de estudo
-Interface inspirada em páginas reais de serviços de hospedagem
-Foco maior na estrutura e responsividade
+Projeto desenvolvido para fins de estudo <br>
+Interface inspirada em páginas reais de serviços de hospedagem <br>
+Foco maior na estrutura e responsividade <br>
 
 <br>
 <br>
 
 ## 📌 Próximos Passos
 
-Melhorar animações (transições mais suaves)
-Adicionar mais interatividade com JavaScript
-Criar versão com React
-Implementar modo dark/light
-Melhorar acessibilidade (a11y)
+Melhorar animações (transições mais suaves) <br>
+Adicionar mais interatividade com JavaScript <br>
+Criar versão com React <br>
+Implementar modo dark/light <br>
+Melhorar acessibilidade (a11y) <br>
 
 <br>
 <br>
 
 ## 🧠 Insight direto
 
-Esse tipo de projeto parece simples, mas é exatamente o que constrói base sólida.
-Se você começar a empilhar projetos assim com design consistente + responsividade, seu portfólio já começa a se destacar de verdade.
+Esse tipo de projeto parece simples, mas é exatamente o que constrói base sólida. <br>
+Se você começar a empilhar projetos assim com design consistente + responsividade, seu portfólio já começa a se destacar de verdade. <br>
 
-Se quiser, posso te transformar isso aqui em um case de portfólio (nível LinkedIn/GitHub top) com storytelling + design estratégico.
+Se quiser, posso te transformar isso aqui em um case de portfólio (nível LinkedIn/GitHub top) com storytelling + design estratégico. 
