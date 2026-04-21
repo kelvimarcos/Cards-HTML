@@ -48,7 +48,7 @@ Aplicar conceitos básicos de UX/UI
 Você pode visualizar diretamente pelo navegador:
 
 ## 🔗 Link do projeto: <br>
-👉 [Cards](https://kelvimarcos.github.io/Cards-HTML/) <br>
+👉 [https://kelvimarcos.github.io/Cards-HTML/](https://kelvimarcos.github.io/Cards-HTML/)  <br>
 Basta clicar ou colar no navegador.
 
 <br>
