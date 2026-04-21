@@ -17,11 +17,11 @@ JavaScript → Interações simples na interface
 
 ## 💻 Funcionalidades
 
-✔ Layout responsivo para mobile, tablet e desktop
-✔ Menu de navegação com destaque de item ativo
-✔ Cards de planos com informações organizadas
-✔ Botões com efeito hover
-✔ Estrutura visual moderna com foco em clareza
+✔ Layout responsivo para mobile, tablet e desktop <br>
+✔ Menu de navegação com destaque de item ativo <br>
+✔ Cards de planos com informações organizadas <br>
+✔ Botões com efeito hover <br>
+✔ Estrutura visual moderna com foco em clareza <br>
 
 <br>
 <br>
